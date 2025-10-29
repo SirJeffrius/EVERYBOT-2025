@@ -13,7 +13,7 @@ import edu.wpi.first.wpilibj2.command.InstantCommand;
  */
 public class DoNothingCommand extends InstantCommand {
     public DoNothingCommand() {
-        // Do loads of nothing
+        // Do loads of nothing. I'm here to teach myself how to stage something.
     }
 
     @Override
